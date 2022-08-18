@@ -6,7 +6,6 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/atg_banner.jpg",
             "show_overlay": true,
             "overlay_opacity": 69,
             "text_color": "#ffffff",
@@ -51,12 +50,12 @@
       "type": "featured-collection",
       "settings": {
         "collection": "pre-order",
-        "title": "Pre Order",
+        "title": "Demnächst",
         "products_count": 5,
         "layout": "vertical",
         "stack_products": true,
         "show_quick_buy": true,
-        "link_title": "View all",
+        "link_title": "zeige all",
         "link_url": ""
       }
     },
