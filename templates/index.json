@@ -127,18 +127,18 @@
         "collection-1"
       ],
       "settings": {
-        "title": "Featured Artists",
-        "link_title": "View all",
+        "title": "Beliebte Serien",
+        "link_title": "zeige alle",
         "link": "",
         "round_images": false,
-        "show_collection_title": true
+        "show_collection_title": false
       }
     },
     "newsletter": {
       "type": "newsletter",
       "settings": {
         "title": "Newsletter",
-        "content": "<p>Subscribe to our newsletter!<\/p>",
+        "content": "<p>Melde dich für unseren Newsletter an!<\/p>",
         "background": "#ffffff",
         "text": "#666666"
       }

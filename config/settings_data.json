@@ -136,28 +136,28 @@
             "type": "text",
             "settings": {
               "title": "",
-              "content": "<p><a href=\"\/pages\/my-account\" title=\"My account\">My account<\/a><\/p>"
+              "content": "<p><a href=\"\/pages\/my-account\" title=\"My account\">Mein Konto<\/a><\/p>"
             }
           },
           "b1ff6c53-266c-47e1-8025-b1a6d9ba73b2": {
             "type": "text",
             "settings": {
               "title": "",
-              "content": "<p><a href=\"\/pages\/terms-and-service\" title=\"Terms and service\">Terms and service<\/a><\/p><p><a href=\"\/pages\/privacy-statement\" title=\"Privacy statement\">Privacy statement<\/a><\/p><p><a href=\"\/pages\/return-policy\" title=\"Return policy\">Return policy<\/a><\/p>"
+              "content": "<p><a href=\"\/pages\/terms-and-service\" title=\"Terms and service\">AGBs<\/a><\/p><p><a href=\"\/pages\/privacy-statement\" title=\"Privacy statement\">Datenschutz<\/a><\/p><p><a href=\"\/pages\/return-policy\" title=\"Return policy\">Umtausch <\/a><\/p>"
             }
           },
           "footer-0": {
             "type": "text",
             "settings": {
               "title": "",
-              "content": "<p><a href=\"\/pages\/imprint\" title=\"Imprint\">Imprint<\/a><\/p><p><a href=\"\/pages\/payment-and-shipping\" title=\"Payment and shipping\">Payment and shipping<\/a><\/p>"
+              "content": "<p><a href=\"\/pages\/imprint\" title=\"Imprint\">Impressum<\/a><\/p><p><a href=\"\/pages\/payment-and-shipping\" title=\"Payment and shipping\">Bezahlmethoden und Versandkosten<\/a><\/p>"
             }
           },
           "90870819-c265-4cc2-94b0-5e40ad2810f7": {
             "type": "text",
             "settings": {
               "title": "",
-              "content": "<p><a href=\"\/pages\/about\" title=\"About\">About<\/a><\/p>"
+              "content": "<p><a href=\"\/pages\/about\" title=\"About\">Über uns<\/a><\/p>"
             }
           },
           "footer-1": {
