@@ -150,7 +150,7 @@
             "type": "text",
             "settings": {
               "title": "",
-              "content": "<p><a href=\"\/pages\/imprint\" title=\"Imprint\">Impressum<\/a><\/p><p><a href=\"\/pages\/payment-and-shipping\" title=\"Payment and shipping\">Bezahlmethoden und Versandkosten<\/a><\/p>"
+              "content": "<p><a href=\"\/pages\/impressum\" title=\"Impressum\">Impressum<\/a><\/p><p><a href=\"\/pages\/payment-and-shipping\" title=\"Payment and shipping\">Bezahlmethoden und Versandkosten<\/a><\/p>"
             }
           },
           "90870819-c265-4cc2-94b0-5e40ad2810f7": {
