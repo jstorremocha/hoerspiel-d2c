@@ -143,7 +143,7 @@
             "type": "text",
             "settings": {
               "title": "",
-              "content": "<p><a href=\"\/pages\/agbs\" title=\"AGBs\">AGBs<\/a><\/p><p><a href=\"\/pages\/datenschutz\" title=\"Datenschutz\">Datenschutz<\/a><\/p><p><a href=\"\/pages\/return-policy\" title=\"Return policy\">Umtausch <\/a><\/p>"
+              "content": "<p><a href=\"\/pages\/agbs\" title=\"AGBs\">AGBs<\/a><\/p><p><a href=\"\/pages\/datenschutz\" title=\"Datenschutz\">Datenschutz<\/a><\/p><p><a href=\"\/pages\/umtausch\" title=\"Umtausch\">Umtausch <\/a><\/p>"
             }
           },
           "footer-0": {
