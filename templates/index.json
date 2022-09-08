@@ -49,7 +49,7 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "pre-order",
+        "collection": "demnachst",
         "title": "Demnächst",
         "products_count": 5,
         "layout": "vertical",
@@ -62,7 +62,7 @@
     "featured-products": {
       "type": "featured-collection",
       "settings": {
-        "collection": "new-releases",
+        "collection": "neu",
         "title": "Neu",
         "products_count": 5,
         "layout": "vertical",
