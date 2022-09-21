@@ -280,7 +280,7 @@
     "blocks": {
       "14506125106423828829": {
         "type": "shopify:\/\/apps\/lyrian-coming-soon-page\/blocks\/app-embed-head\/eb082e11-598f-4a9a-9c18-68b5cf2ac578",
-        "disabled": true,
+        "disabled": false,
         "settings": {
           "coming_soon_template": "Template-5",
           "logo_image": "shopify:\/\/shop_images\/hoerspiel-de_Log_web.png",
@@ -288,23 +288,9 @@
           "cs_bg_checkbox": false
         }
       },
-      "13922174930081581447": {
-        "type": "shopify:\/\/apps\/lyrian-coming-soon-page\/blocks\/app-embed-footer\/eb082e11-598f-4a9a-9c18-68b5cf2ac578",
-        "disabled": true,
-        "settings": {
-          "enable_footer": true,
-          "copyright_text": "© All right reserved 2022",
-          "facebook_link": "",
-          "insta_link": "",
-          "twitter_link": "",
-          "youtube_link": "",
-          "pinterest_link": "",
-          "linked_link": ""
-        }
-      },
       "12729028486393027794": {
         "type": "shopify:\/\/apps\/lyrian-coming-soon-page\/blocks\/app-embed-body\/eb082e11-598f-4a9a-9c18-68b5cf2ac578",
-        "disabled": true,
+        "disabled": false,
         "settings": {
           "cs_title": "",
           "cs_title_size": "",
@@ -317,6 +303,20 @@
           "counter_font_size": "45px",
           "counter_label_font_size": "22px",
           "cs_counter_font": "anonymous_pro_n4"
+        }
+      },
+      "13922174930081581447": {
+        "type": "shopify:\/\/apps\/lyrian-coming-soon-page\/blocks\/app-embed-footer\/eb082e11-598f-4a9a-9c18-68b5cf2ac578",
+        "disabled": false,
+        "settings": {
+          "enable_footer": true,
+          "copyright_text": "© All right reserved 2022",
+          "facebook_link": "",
+          "insta_link": "",
+          "twitter_link": "",
+          "youtube_link": "",
+          "pinterest_link": "",
+          "linked_link": ""
         }
       }
     }
