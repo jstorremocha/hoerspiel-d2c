@@ -3,40 +3,98 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "slide-1": {
-          "type": "image",
-          "settings": {
-            "show_overlay": true,
-            "overlay_opacity": 69,
-            "text_color": "#ffffff",
-            "title": "New ATG Tour",
-            "content": "Summer 2022 - book your tickets already!",
-            "content_position": "bottom_center",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "button_text": "Tickets",
-            "link": "https:\/\/cmdistro-de.myshopify.com\/collections\/vendors?q=Ignite"
-          }
-        },
         "slide-2": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/DDFKids_0922_2160x720_93da63bd-3709-4319-9cce-2e943aff82b9.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/DDFKids_0922_750x1100_4cf02d26-95d9-4f87-adef-7513d1cb8e9b.jpg",
             "show_overlay": true,
             "overlay_opacity": 28,
             "text_color": "#ffffff",
-            "title": "Slide title",
-            "content": "Tell your story",
+            "title": "",
+            "content": "",
             "content_position": "middle_center",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
-            "button_text": "Button",
+            "button_text": "",
+            "link": ""
+          }
+        },
+        "46646b85-b273-40d2-805d-b773550e6695": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DDA_0922_2160x720_a1458aab-254e-4d42-90bd-7b841a12a636.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/DDA_0922_750x1100_da9eceb5-94f2-4258-b35c-a450ce96cbd3.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": ""
+          }
+        },
+        "82dbeebc-3b6e-49c7-a90c-4af9f27946de": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TKKG_0922_2160x720_3e0e944a-1f9e-4355-8f8d-52e3e5be147d.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/TKKG_0922_750x1100_4cd39a12-87d9-423f-8b4f-826cdcce571b.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": ""
+          }
+        },
+        "d17d7f8e-64fb-4f69-8757-ff811f98148c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PP_0922_2160x720_17273c48-253d-446e-b04e-30565af45840.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/PP_0922_750x1100_8732c2fb-7f9e-4b94-b12a-2c5ce37643cd.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": ""
+          }
+        },
+        "2984557a-de70-4bd5-b55e-059b628f6c6c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FF_0922_2160x720_af8dc5e6-c56c-4f1a-ae63-83a14301f9d4.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/FF_0922_750x1100_135274a8-14b5-4731-a290-7d0ebb0c70a2.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "slide-1",
-        "slide-2"
+        "slide-2",
+        "46646b85-b273-40d2-805d-b773550e6695",
+        "82dbeebc-3b6e-49c7-a90c-4af9f27946de",
+        "d17d7f8e-64fb-4f69-8757-ff811f98148c",
+        "2984557a-de70-4bd5-b55e-059b628f6c6c"
       ],
       "settings": {
         "edge_to_edge": false,
