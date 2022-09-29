@@ -23,8 +23,8 @@
         "46646b85-b273-40d2-805d-b773550e6695": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DDA_0922_2160x720_a1458aab-254e-4d42-90bd-7b841a12a636.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/DDA_0922_750x1100_da9eceb5-94f2-4258-b35c-a450ce96cbd3.jpg",
+            "image": "shopify:\/\/shop_images\/GS_0922_2160x720_1c3ea762-3456-4f71-ad10-ce4c978f51e5.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/GS_0922_750x1100_39175b3e-175d-4561-9096-f890fa60ac52.jpg",
             "show_overlay": false,
             "overlay_opacity": 30,
             "text_color": "#ffffff",
@@ -34,7 +34,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "button_text": "",
-            "link": "https:\/\/shop.hoerspiel.de\/search?type=product&options%5Bprefix%5D=last&options%5Bunavailable_products%5D=last&q=die+drei+%21%21%21"
+            "link": "https:\/\/shop.hoerspiel.de\/collections\/vendors?q=Gruselserie"
           }
         },
         "82dbeebc-3b6e-49c7-a90c-4af9f27946de": {
