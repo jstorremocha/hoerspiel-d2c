@@ -141,7 +141,7 @@
       "settings": {
         "collection": "neu",
         "title": "Neu",
-        "products_count": 5,
+        "products_count": 12,
         "layout": "vertical",
         "stack_products": true,
         "show_quick_buy": true,
