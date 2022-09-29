@@ -124,10 +124,11 @@
     },
     "featured-collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "collection": "demnachst",
         "title": "Demnächst",
-        "products_count": 5,
+        "products_count": 12,
         "layout": "vertical",
         "stack_products": true,
         "show_quick_buy": true,
