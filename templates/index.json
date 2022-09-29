@@ -150,6 +150,7 @@
     },
     "collection-list": {
       "type": "collection-list",
+      "disabled": true,
       "blocks": {
         "collection-2": {
           "type": "collection",
