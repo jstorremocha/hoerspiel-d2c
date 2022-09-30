@@ -197,7 +197,7 @@
           "show_payment_icons": true,
           "show_locale_selector": true,
           "show_currency_selector": true,
-          "show_cookie_bar": true,
+          "show_cookie_bar": false,
           "text": "<p>By clicking “Accept”, you agree to the storing of cookies on your device to enhance site navigation.<\/p>",
           "accept_button": "Accept"
         }
@@ -276,49 +276,6 @@
     },
     "content_for_index": [
 
-    ],
-    "blocks": {
-      "14506125106423828829": {
-        "type": "shopify:\/\/apps\/lyrian-coming-soon-page\/blocks\/app-embed-head\/eb082e11-598f-4a9a-9c18-68b5cf2ac578",
-        "disabled": false,
-        "settings": {
-          "coming_soon_template": "Template-5",
-          "logo_image": "shopify:\/\/shop_images\/hoerspiel-de_Log_web.png",
-          "logo_size": 400,
-          "cs_bg_checkbox": false
-        }
-      },
-      "12729028486393027794": {
-        "type": "shopify:\/\/apps\/lyrian-coming-soon-page\/blocks\/app-embed-body\/eb082e11-598f-4a9a-9c18-68b5cf2ac578",
-        "disabled": false,
-        "settings": {
-          "cs_title": "",
-          "cs_title_size": "",
-          "cs_title_font": "roboto_condensed_n7",
-          "cs_description": "<p><em><strong>Hallo zusammen,<\/strong><\/em><\/p><p> <\/p><p>wir wollen euch kurz darüber informieren, dass wir umziehen – und<br\/>zwar digital.<\/p><p> <\/p><p>Ab Ende September, <strong>genau genommen ab dem 30. September<\/strong>, werden wir in einem neuen System und auf einer<br\/>neuen Shop Plattform arbeiten. <\/p><p> <\/p><p><em>Für euch bedeutet dies, dass ihr ein<br\/>neues Konto eröffnen müsst, sobald wir online sind, da wir eure Daten nicht in<br\/>das neue Shop System importieren dürfen.<\/em><\/p><p> <\/p><p><strong>Alle Vorbestellungen werden ihre<br\/>Gültigkeit bis zu ihrer Veröffentlichung behalten, darüber müsst ihr euch keine<br\/>Sorgen machen. <\/strong>Für alle Fragen eure Konten betreffend (Adressen, bestellte<br\/>Artikel, Bezahlungen…) wendet euch bitte an <a href=\"mailto:shop@cmdistro.de\" target=\"_blank\">shop@hoerspiel.de<\/a>, da<br\/>ihr nach dem Neustart nicht mehr auf eure Konten zugreifen könnt.<\/p><p> <\/p><p><em><strong>Wir freuen uns sehr auf unser neues<br\/>Zuhause und hoffen, dass ihr euch dort genauso wohlfühlen werdet, wie wir.<\/strong><\/em><\/p><p>Alles Gute! <\/p>",
-          "cs_desc_size": "18px",
-          "cs_desc_font": "poppins_n4",
-          "counter_date": "30-09-2022",
-          "counter_time": "10:00",
-          "counter_font_size": "45px",
-          "counter_label_font_size": "22px",
-          "cs_counter_font": "anonymous_pro_n4"
-        }
-      },
-      "13922174930081581447": {
-        "type": "shopify:\/\/apps\/lyrian-coming-soon-page\/blocks\/app-embed-footer\/eb082e11-598f-4a9a-9c18-68b5cf2ac578",
-        "disabled": false,
-        "settings": {
-          "enable_footer": true,
-          "copyright_text": "© All right reserved 2022",
-          "facebook_link": "",
-          "insta_link": "",
-          "twitter_link": "",
-          "youtube_link": "",
-          "pinterest_link": "",
-          "linked_link": ""
-        }
-      }
-    }
+    ]
   }
 }
