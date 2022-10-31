@@ -140,7 +140,7 @@
       "type": "featured-collection",
       "settings": {
         "collection": "neu",
-        "title": "Neu",
+        "title": "Neues",
         "products_count": 20,
         "layout": "vertical",
         "stack_products": true,
