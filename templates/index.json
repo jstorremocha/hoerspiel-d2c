@@ -141,8 +141,8 @@
       "settings": {
         "collection": "neu",
         "title": "Neu",
-        "products_count": 12,
-        "layout": "collage",
+        "products_count": 20,
+        "layout": "vertical",
         "stack_products": true,
         "show_quick_buy": true,
         "link_title": "zeige alle",
