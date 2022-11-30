@@ -6,8 +6,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DDFKids_0922_2160x720_93da63bd-3709-4319-9cce-2e943aff82b9.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/DDFKids_0922_750x1100_4cf02d26-95d9-4f87-adef-7513d1cb8e9b.jpg",
+            "image": "shopify:\/\/shop_images\/DDF_OST_1222_2160x720_799a59d3-9701-4462-822f-53897a1b01bf.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/DDF_OST_1222_750x1100_6ddf1f1d-6a59-400e-b33f-b600752cb805.jpg",
             "show_overlay": true,
             "overlay_opacity": 28,
             "text_color": "#ffffff",
@@ -23,7 +23,7 @@
         "46646b85-b273-40d2-805d-b773550e6695": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/GS_0922_2160x720_1c3ea762-3456-4f71-ad10-ce4c978f51e5.jpg",
+            "image": "shopify:\/\/shop_images\/GS_1222_2160x720_315db11e-59bc-4606-ab19-bf45fab24a8a.jpg",
             "mobile_image": "shopify:\/\/shop_images\/GS_0922_750x1100_39175b3e-175d-4561-9096-f890fa60ac52.jpg",
             "show_overlay": false,
             "overlay_opacity": 30,
@@ -40,8 +40,8 @@
         "82dbeebc-3b6e-49c7-a90c-4af9f27946de": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/TKKG_0922_2160x720_3e0e944a-1f9e-4355-8f8d-52e3e5be147d.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/TKKG_0922_750x1100_4cd39a12-87d9-423f-8b4f-826cdcce571b.jpg",
+            "image": "shopify:\/\/shop_images\/TKKG_226_1222_2160x720_81636cdd-b4a2-410a-b0f3-33c10d751e12.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/TKKG_226_1222_750x1100_3e511579-e6ef-4a3d-a40c-acd2b29b1f76.jpg",
             "show_overlay": false,
             "overlay_opacity": 30,
             "text_color": "#ffffff",
@@ -74,8 +74,8 @@
         "2984557a-de70-4bd5-b55e-059b628f6c6c": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FF_0922_2160x720_af8dc5e6-c56c-4f1a-ae63-83a14301f9d4.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/FF_0922_750x1100_135274a8-14b5-4731-a290-7d0ebb0c70a2.jpg",
+            "image": "shopify:\/\/shop_images\/FF_152_1222_2160x720_1441894c-3c07-4270-8e16-85eba8ed8720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/FF_152_1222_750x1100_e1991ea9-4b17-4de7-be77-e7d2a24bf005.jpg",
             "show_overlay": false,
             "overlay_opacity": 30,
             "text_color": "#ffffff",
@@ -91,7 +91,7 @@
         "87bf2aed-159d-4f23-8619-75adae2d7cf0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DDF_0922_2160x720_ea00ecbc-0240-42b8-afc7-216bc125c5e9.jpg",
+            "image": "shopify:\/\/shop_images\/DDF_220_1222_2160x720_5b6cde6e-1023-4288-af19-06f0fc67ed0d.jpg",
             "mobile_image": "shopify:\/\/shop_images\/DDF_0922_750x1100_42946e0f-e82d-42bd-bc57-c6f7f7b95310.jpg",
             "show_overlay": false,
             "overlay_opacity": 30,
@@ -102,7 +102,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "button_text": "",
-            "link": "https:\/\/shop.hoerspiel.de\/collections\/die-drei"
+            "link": "https:\/\/shop.hoerspiel.de\/collections\/die-drei?sort_by=created-descending"
           }
         }
       },
