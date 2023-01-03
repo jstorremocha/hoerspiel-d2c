@@ -2,6 +2,7 @@
   "sections": {
     "68e0194c-66e1-4e3d-a725-06e10ad7993d": {
       "type": "rich-text",
+      "disabled": true,
       "settings": {
         "text_width": "wide",
         "title": "Schöne Feiertage!",
