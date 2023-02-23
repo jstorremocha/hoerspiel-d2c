@@ -68,8 +68,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DDF_OST_1222_2160x720_799a59d3-9701-4462-822f-53897a1b01bf.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/DDF_OST_1222_750x1100_6ddf1f1d-6a59-400e-b33f-b600752cb805.jpg",
+            "image": "shopify:\/\/shop_images\/DDF_28_0223_2160x720_acc1ccec-8610-432c-bc19-2667f762f24e.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/DDF_28_0223_750x1100_bc7520a2-a3fe-4e65-91d8-8ed961f9674b.jpg",
             "show_overlay": true,
             "overlay_opacity": 28,
             "text_color": "#ffffff",
@@ -79,7 +79,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "button_text": "",
-            "link": "https:\/\/shop.hoerspiel.de\/collections\/die-drei?sort_by=created-descending"
+            "link": "shopify:\/\/products\/die-drei-und-der-doppelganger-lim-picture-vinyl-140gr"
           }
         },
         "2984557a-de70-4bd5-b55e-059b628f6c6c": {
