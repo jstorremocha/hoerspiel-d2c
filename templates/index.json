@@ -14,13 +14,13 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "87bf2aed-159d-4f23-8619-75adae2d7cf0": {
+        "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DDF_222_0223_2160x720_40583600-cedf-4a11-8f01-2b5117618db3.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/DDF_222_0223_750x1100_ee813f6a-014a-41a8-aab3-73773d76bafc.jpg",
-            "show_overlay": false,
-            "overlay_opacity": 30,
+            "image": "shopify:\/\/shop_images\/DDF_28_0223_2160x720_acc1ccec-8610-432c-bc19-2667f762f24e.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/DDF_28_0223_750x1100_bc7520a2-a3fe-4e65-91d8-8ed961f9674b.jpg",
+            "show_overlay": true,
+            "overlay_opacity": 28,
             "text_color": "#ffffff",
             "title": "",
             "content": "",
@@ -28,7 +28,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "button_text": "",
-            "link": "https:\/\/shop.hoerspiel.de\/collections\/die-drei?sort_by=created-descending"
+            "link": "shopify:\/\/products\/die-drei-und-der-doppelganger-lim-picture-vinyl-140gr"
           }
         },
         "46646b85-b273-40d2-805d-b773550e6695": {
@@ -48,11 +48,11 @@
             "link": "shopify:\/\/products\/die-drei-voller-einsatz-fur-die-erde-cd-longplay"
           }
         },
-        "82dbeebc-3b6e-49c7-a90c-4af9f27946de": {
+        "87bf2aed-159d-4f23-8619-75adae2d7cf0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/TKKG_226_1222_2160x720_81636cdd-b4a2-410a-b0f3-33c10d751e12.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/TKKG_226_1222_750x1100_3e511579-e6ef-4a3d-a40c-acd2b29b1f76.jpg",
+            "image": "shopify:\/\/shop_images\/DDF_222_0223_2160x720_40583600-cedf-4a11-8f01-2b5117618db3.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/DDF_222_0223_750x1100_ee813f6a-014a-41a8-aab3-73773d76bafc.jpg",
             "show_overlay": false,
             "overlay_opacity": 30,
             "text_color": "#ffffff",
@@ -62,24 +62,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "button_text": "",
-            "link": "https:\/\/shop.hoerspiel.de\/collections\/vendors?q=TKKG&sort_by=created-descending"
-          }
-        },
-        "slide-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DDF_28_0223_2160x720_acc1ccec-8610-432c-bc19-2667f762f24e.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/DDF_28_0223_750x1100_bc7520a2-a3fe-4e65-91d8-8ed961f9674b.jpg",
-            "show_overlay": true,
-            "overlay_opacity": 28,
-            "text_color": "#ffffff",
-            "title": "",
-            "content": "",
-            "content_position": "middle_center",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "button_text": "",
-            "link": "shopify:\/\/products\/die-drei-und-der-doppelganger-lim-picture-vinyl-140gr"
+            "link": "https:\/\/shop.hoerspiel.de\/collections\/die-drei?sort_by=created-descending"
           }
         },
         "2984557a-de70-4bd5-b55e-059b628f6c6c": {
@@ -97,6 +80,23 @@
             "button_text_color": "#000000",
             "button_text": "",
             "link": "https:\/\/shop.hoerspiel.de\/collections\/vendors?q=F%C3%BCnf+Freunde&sort_by=created-descending"
+          }
+        },
+        "82dbeebc-3b6e-49c7-a90c-4af9f27946de": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TKKG_226_1222_2160x720_81636cdd-b4a2-410a-b0f3-33c10d751e12.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/TKKG_226_1222_750x1100_3e511579-e6ef-4a3d-a40c-acd2b29b1f76.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/shop.hoerspiel.de\/collections\/vendors?q=TKKG&sort_by=created-descending"
           }
         },
         "d17d7f8e-64fb-4f69-8757-ff811f98148c": {
@@ -118,11 +118,11 @@
         }
       },
       "block_order": [
-        "87bf2aed-159d-4f23-8619-75adae2d7cf0",
-        "46646b85-b273-40d2-805d-b773550e6695",
-        "82dbeebc-3b6e-49c7-a90c-4af9f27946de",
         "slide-2",
+        "46646b85-b273-40d2-805d-b773550e6695",
+        "87bf2aed-159d-4f23-8619-75adae2d7cf0",
         "2984557a-de70-4bd5-b55e-059b628f6c6c",
+        "82dbeebc-3b6e-49c7-a90c-4af9f27946de",
         "d17d7f8e-64fb-4f69-8757-ff811f98148c"
       ],
       "settings": {
