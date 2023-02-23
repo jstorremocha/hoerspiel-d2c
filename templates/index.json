@@ -34,8 +34,8 @@
         "46646b85-b273-40d2-805d-b773550e6695": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/GS_1222_2160x720_315db11e-59bc-4606-ab19-bf45fab24a8a.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/GS_0922_750x1100_39175b3e-175d-4561-9096-f890fa60ac52.jpg",
+            "image": "shopify:\/\/shop_images\/DDA_83_0223_2160x720_05f467c8-4782-46e6-843a-19ebafdbda3b.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/DDA_83_0223_750x1100_80312230-570f-4f7a-a24d-9e684489b206.jpg",
             "show_overlay": false,
             "overlay_opacity": 30,
             "text_color": "#ffffff",
@@ -45,7 +45,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "button_text": "",
-            "link": "https:\/\/shop.hoerspiel.de\/collections\/vendors?q=Gruselserie"
+            "link": "shopify:\/\/products\/die-drei-voller-einsatz-fur-die-erde-cd-longplay"
           }
         },
         "82dbeebc-3b6e-49c7-a90c-4af9f27946de": {
